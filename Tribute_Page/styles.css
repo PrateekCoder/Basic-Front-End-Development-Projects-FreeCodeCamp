@@ -1,0 +1,23 @@
+#bio{
+  background: lightgray;
+}
+
+.timeline{
+  padding: 20px;
+}
+
+.cover{
+  padding: 20px;
+}
+
+.heading{
+  border-bottom: 1px solid black;
+}
+
+.top{
+  padding: 20px;
+}
+
+.about{
+  padding: 20px;
+}
